@@ -7,7 +7,7 @@ You're right — here’s the properly formatted **Markdown file** for `README.m
 
 ## 📁 Project Structure
 
-```
+
 
 AUTOCORRECTOR-USING-NLP/
 ├── autocorrector using nlp.ipynb               # Main script to run the autocorrector
@@ -81,16 +81,15 @@ Suggestions: there, their
 ```bash
 $ python main.py
 Enter word: exampel
-Top suggestions:
-1. example (P=0.0000241)
-2. ex ample (P=0.0000004)
+output:
+1. example 
 ```
 
 ---
 
 ## 📝 Customization
 
-* **Use your own corpus**: Replace `sample.txt` with a larger dataset (e.g., Project Gutenberg).
+* **Use your own corpus**: Replace `final.txt` with a larger dataset.
 * **Edit distance**: Adjust the depth of candidate generation (1 or 2 edits).
 * **Ranking improvements**: Add bigram context or use n-gram models.
 * **Optimize performance**: Use caching or prune low-probability candidates.

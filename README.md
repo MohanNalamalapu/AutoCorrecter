@@ -3,10 +3,7 @@ Autocorrect feature predicts and correct misspelled words, it helps to save time
 You're right — here’s the properly formatted **Markdown file** for `README.md` — with **correct markdown syntax** and no extra explanation:
 
 ```markdown
-# 🔠 Autocorrector using NLP
 
-Autocorrect feature predicts and correct misspelled words, it helps to save time invested in the editing of articles, emails and reports. This feature is added many websites and social media platforms to ensure easy typing.
-You're right — here’s the properly formatted **Markdown file** for `README.md` — with **correct markdown syntax** and no extra explanation:
 
 ## 📁 Project Structure
 

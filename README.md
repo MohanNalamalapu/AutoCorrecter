@@ -114,10 +114,7 @@ tehre → there
 recieve → receive
 ```
 
-Measure:
 
-* **Accuracy**: % of correctly predicted first-choice corrections
-* **Speed**: Time taken for corrections per word
 
 ---
 

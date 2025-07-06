@@ -19,7 +19,7 @@ AUTOCORRECTOR-USING-NLP/
 
 ## 📄 Prerequisites
 
-- A vocabulary text file (e.g., `sample.txt`) with one or more words per line or paragraph.
+- A vocabulary text file (e.g., `final.txt`) with one or more words per line or paragraph.
 - All words should be **lowercase** and **newline-separated**.
 
 ---
